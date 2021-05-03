@@ -1,0 +1,24 @@
+{
+  "name": "nerve-obj",
+  "version": "0.0.1",
+  "description": "\"Nerve Object\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevin-ADB/nerve-obj.git"
+  },
+  "keywords": [
+    "nerve",
+    "nerve-obj",
+    "nerve-object"
+  ],
+  "author": "kevinadb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kevin-ADB/nerve-obj/issues"
+  },
+  "homepage": "https://github.com/Kevin-ADB/nerve-obj#readme"
+}
